@@ -7,10 +7,10 @@
   "packages": {
     "jp.yoridrill.ndmf-vroid-arm-patch": {
       "versions": {
-        "1.0.0": {
+        "1.0.1": {
           "name": "jp.yoridrill.ndmf-vroid-arm-patch",
           "displayName": "NDMF VRoid Arm Patch",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "unity": "2022.3",
           "description": "NDMF plugin for patching VRoid avatar arm behavior.",
           "url": "https://github.com/yoridrill/ndmf-vroid-arm-patch/releases/download/1.0.1/ndmf-vroid-arm-patch-1.0.1.zip",
