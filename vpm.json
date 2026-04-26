@@ -18,6 +18,35 @@
             "com.vrchat.avatars": ">=3.10.0",
             "nadena.dev.ndmf": ">=1.11.0"
           }
+        },
+        "1.0.2": {
+          "name": "jp.yoridrill.ndmf-vroid-arm-patch",
+          "displayName": "NDMF VRoid Arm Patch",
+          "version": "1.0.2",
+          "unity": "2022.3",
+          "description": "NDMF plugin for patching VRoid avatar arm behavior.",
+          "url": "https://github.com/yoridrill/ndmf-vroid-arm-patch/releases/download/1.0.2/ndmf-vroid-arm-patch-1.0.2.zip",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.0",
+            "nadena.dev.ndmf": ">=1.11.0"
+          }
+        }
+      }
+    },
+    "jp.yoridrill.ndmf-mtoon10-to-liltoon": {
+      "versions": {
+        "0.0.1": {
+          "name": "jp.yoridrill.ndmf-mtoon10-to-liltoon",
+          "displayName": "NDMF MToon10 to lilToon",
+          "version": "0.0.1",
+          "unity": "2022.3",
+          "description": "NDMF plugin for converting MToon 1.0 materials to lilToon.",
+          "url": "https://github.com/yoridrill/ndmf-mtoon10-to-liltoon/releases/download/0.0.1/ndmf-mtoon10-to-liltoon-0.0.1.zip",
+          "vpmDependencies": {
+            "jp.lilxyzw.liltoon": ">=2.3.2",
+            "com.vrchat.avatars": ">=3.10.0",
+            "nadena.dev.ndmf": ">=1.11.0"
+          }
         }
       }
     }
