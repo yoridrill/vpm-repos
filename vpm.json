@@ -23,7 +23,7 @@
         "1.0.1": {
           "name": "jp.yoridrill.yoridori-modifiers",
           "displayName": "Yoridori Modifiers",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "unity": "2022.3",
           "description": "Non-destructive editing tools for VRChat avatars",
           "url": "https://github.com/yoridrill/yoridori-modifiers/releases/download/1.0.1/jp.yoridrill.yoridori-modifiers-1.0.1.zip",
