@@ -45,6 +45,19 @@
             "com.vrchat.avatars": ">=3.10.0",
             "nadena.dev.ndmf": ">=1.11.0"
           }
+        },
+        "1.0.3": {
+          "name": "jp.yoridrill.yoridori-modifiers",
+          "displayName": "Yoridori Modifiers",
+          "version": "1.0.3",
+          "unity": "2022.3",
+          "description": "Non-destructive editing tools for VRChat avatars",
+          "url": "https://github.com/yoridrill/yoridori-modifiers/releases/download/1.0.3/jp.yoridrill.yoridori-modifiers-1.0.3.zip",
+          "vpmDependencies": {
+            "jp.lilxyzw.liltoon": ">=2.3.2",
+            "com.vrchat.avatars": ">=3.10.0",
+            "nadena.dev.ndmf": ">=1.11.0"
+          }
         }
       }
     }
