@@ -96,7 +96,8 @@
             "jp.lilxyzw.liltoon": ">=2.3.2",
             "com.vrchat.avatars": ">=3.10.3",
             "nadena.dev.ndmf": ">=1.11.0"
-          },
+          }
+        },
         "1.1.1": {
           "name": "jp.yoridrill.yoridori-modifiers",
           "displayName": "Yoridori Modifiers",
